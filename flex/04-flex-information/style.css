@@ -24,3 +24,18 @@ img {
   justify-content: center;
   background: #eee;
 }
+/*solution*/
+.title{
+  text-align: center;
+}
+.cards-container{
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+  padding-top: 30px;
+  
+}
+
+.card{
+  width: 150px;
+}
